@@ -1,0 +1,390 @@
+{
+  "version": 4,
+  "name": "Second",
+  "description": "Updated: 17\/10\/2025 21:35",
+  "timestamp": 1760726108344,
+  "app_version": "1.0",
+  "targetWidth": 390,
+  "targetHeight": 450,
+  "targetResolution": 450,
+  "watchShape": "RECTANGLE",
+  "widgets": [
+    {
+      "type": "HOUR",
+      "x": 50,
+      "y": 184,
+      "width": 92,
+      "height": 74,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 1,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 100,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "format": "24h",
+        "showLeadingZero": true,
+        "text": "21",
+        "textColor": -54926,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "HOUR",
+      "x": 50,
+      "y": 184,
+      "width": 92,
+      "height": 74,
+      "visibilityMode": "AOD_ONLY",
+      "ordineVisualizzazione": 0,
+      "ordineVisualizzazioneAOD": 1,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 100,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "format": "24h",
+        "showLeadingZero": true,
+        "text": "21",
+        "textColor": -3202724,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "MINUTE",
+      "x": 170,
+      "y": 184,
+      "width": 92,
+      "height": 74,
+      "visibilityMode": "AOD_ONLY",
+      "ordineVisualizzazione": 0,
+      "ordineVisualizzazioneAOD": 2,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 100,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "showLeadingZero": true,
+        "text": "35",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "MINUTE",
+      "x": 170,
+      "y": 184,
+      "width": 92,
+      "height": 74,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 2,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 100,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "showLeadingZero": true,
+        "text": "29",
+        "textColor": -1,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "SECOND",
+      "x": 286,
+      "y": 221,
+      "width": 52,
+      "height": 37,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 3,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "selectedFontName": "FuturaFuturisC.ttf",
+        "editing_locked": false,
+        "textSize": 48,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "showLeadingZero": true,
+        "text": "25",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "DAY",
+      "x": 50,
+      "y": 120,
+      "width": 38,
+      "height": 30,
+      "visibilityMode": "AOD_ONLY",
+      "ordineVisualizzazione": 0,
+      "ordineVisualizzazioneAOD": 3,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 40,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "showLeadingZero": true,
+        "text": "17",
+        "textColor": -5592406,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "DAY",
+      "x": 50,
+      "y": 120,
+      "width": 38,
+      "height": 30,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 4,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 40,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "showLeadingZero": true,
+        "text": "17",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "MONTH",
+      "x": 104,
+      "y": 117,
+      "width": 181,
+      "height": 39,
+      "visibilityMode": "AOD_ONLY",
+      "ordineVisualizzazione": 0,
+      "ordineVisualizzazioneAOD": 4,
+      "properties": {
+        "editing_locked": false,
+        "textSize": 40,
+        "selectedFontSource": "CUSTOM",
+        "format": "long",
+        "language": "RU",
+        "textColor": -5592406,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        },
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "canvas_visible": true,
+        "showLeadingZero": true,
+        "capitalizeFirst": true,
+        "text": "Октябрь",
+        "alignment": "LEFT"
+      }
+    },
+    {
+      "type": "MONTH",
+      "x": 104,
+      "y": 117,
+      "width": 181,
+      "height": 39,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 5,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "editing_locked": false,
+        "textSize": 40,
+        "selectedFontSource": "CUSTOM",
+        "format": "long",
+        "language": "RU",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        },
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "canvas_visible": true,
+        "showLeadingZero": true,
+        "capitalizeFirst": true,
+        "text": "Октябрь",
+        "alignment": "LEFT"
+      }
+    },
+    {
+      "type": "WEEKDAY",
+      "x": 50,
+      "y": 293,
+      "width": 243,
+      "height": 33,
+      "visibilityMode": "AOD_ONLY",
+      "ordineVisualizzazione": 0,
+      "ordineVisualizzazioneAOD": 5,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 40,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "format": "long",
+        "language": "RU",
+        "capitalizeFirst": true,
+        "text": "Пятница",
+        "alignment": "LEFT",
+        "textColor": -5592406,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "BATTERY",
+      "x": 37,
+      "y": 40,
+      "width": 39,
+      "height": 18,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 6,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "fillColor": -16711936,
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 23,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "text": "80",
+        "alignment": "CENTER",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "WEEKDAY",
+      "x": 50,
+      "y": 293,
+      "width": 243,
+      "height": 33,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 7,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "selectedFontName": "FuturaFuturisLightC.ttf",
+        "editing_locked": false,
+        "textSize": 40,
+        "canvas_visible": true,
+        "selectedFontSource": "CUSTOM",
+        "format": "long",
+        "language": "RU",
+        "capitalizeFirst": true,
+        "text": "Пятница",
+        "alignment": "LEFT",
+        "textColor": -3355444,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "FuturaFuturisLightC.ttf",
+          "fontSource": "CUSTOM",
+          "style": 0
+        }
+      }
+    },
+    {
+      "type": "PROGRESS",
+      "x": 79,
+      "y": 33,
+      "width": 53,
+      "height": 34,
+      "visibilityMode": "NORMAL_ONLY",
+      "ordineVisualizzazione": 8,
+      "ordineVisualizzazioneAOD": 0,
+      "properties": {
+        "debugCallCounter": 1175,
+        "editing_locked": false,
+        "iconHeight": 34,
+        "progressSet": "set_8",
+        "iconWidth": 53,
+        "flipHorizontal": false,
+        "dataType": "BATTERY",
+        "rotation": 0,
+        "colorBrightness": 91,
+        "flipVertical": false,
+        "colorSaturation": 41,
+        "typeface": {
+          "type": "TYPEFACE",
+          "fontName": "Default (System)",
+          "fontSource": "SYSTEM",
+          "style": 0
+        },
+        "currentLevel": 1,
+        "baseWidth": 53,
+        "colorHue": 0,
+        "progressImagePath": "progress\/set_8\/img_level_1.png",
+        "scaleType": "CENTER_INSIDE",
+        "canvas_visible": true,
+        "alpha": 255,
+        "width": 53,
+        "baseHeight": 34,
+        "height": 34
+      },
+      "baseWidth": 53,
+      "baseHeight": 34,
+      "progressSet": "set_8",
+      "progressImagePath": "progress\/set_8\/img_level_1.png",
+      "currentLevel": 1,
+      "maxLevels": 10,
+      "dataType": "BATTERY",
+      "flipHorizontal": false,
+      "flipVertical": false
+    }
+  ]
+}
